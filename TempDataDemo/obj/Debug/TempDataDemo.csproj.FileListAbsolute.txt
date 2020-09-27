@@ -1,0 +1,138 @@
+C:\mvc\TempDataDemo\TempDataDemo\bin\TempDataDemo.dll.config
+C:\mvc\TempDataDemo\TempDataDemo\bin\TempDataDemo.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\TempDataDemo.pdb
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csc.exe
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csc.exe.config
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csc.rsp
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csi.exe
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csi.exe.config
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\csi.rsp
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.AppContext.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Console.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.IO.Compression.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Claims.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.ValueTuple.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\vbc.exe
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\vbc.exe.config
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\vbc.rsp
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\VBCSCompiler.exe
+C:\mvc\TempDataDemo\TempDataDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\TempDataDemo\TempDataDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Helpers.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Mvc.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Razor.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.Razor.dll
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Razor.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Webpages.Razor.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Helpers.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\System.Web.Mvc.xml
+C:\mvc\TempDataDemo\TempDataDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\TempDataDemo\TempDataDemo\obj\Debug\TempDataDemo.csprojAssemblyReference.cache
+C:\mvc\TempDataDemo\TempDataDemo\obj\Debug\TempDataDemo.csproj.CoreCompileInputs.cache
+C:\mvc\TempDataDemo\TempDataDemo\obj\Debug\TempDataDemo.csproj.CopyComplete
+C:\mvc\TempDataDemo\TempDataDemo\obj\Debug\TempDataDemo.dll
+C:\mvc\TempDataDemo\TempDataDemo\obj\Debug\TempDataDemo.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\TempDataDemo.dll.config
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\TempDataDemo.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\TempDataDemo.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csi.exe
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csi.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\csi.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Console.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\vbc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\vbc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\vbc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Helpers.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Mvc.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Helpers.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\System.Web.Mvc.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\obj\Debug\TempDataDemo.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\obj\Debug\TempDataDemo.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\obj\Debug\TempDataDemo.csproj.CopyComplete
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\obj\Debug\TempDataDemo.dll
+C:\Users\lleka\Documents\Akademia\Seanca 15\25.04.+TempData+-+Keep+and+Peek\25.04. TempData - Keep and Peek\TempDataDemo\obj\Debug\TempDataDemo.pdb
